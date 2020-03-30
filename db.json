@@ -14,7 +14,10 @@
             "name": "Jinuk",
             "id": "jjo94",
             "password": "123123"
-            "success": "true"
+            "success": [
+            {
+                "value"="true"
+            }]
         }
     ]
 }
