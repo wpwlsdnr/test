@@ -48,6 +48,12 @@
       "contractor": "30%, 60% 90% Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area"
     },
     {
+      "name": "SN1111HO",
+      "title": "Supports ",
+      "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area,and some of them have not been reviewed/calculated by Structure engineer (GVA)which caused lots of impact on construction",
+      "contractor": "Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area"
+    },
+    {
       "name": "SN5555호선",
       "title": "Supports attached to No-Go area2",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area and some of them have not been reviewed/calculated by Structure engineer",
