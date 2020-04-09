@@ -22,49 +22,49 @@
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1"
-      "Unit_Type": "tes3"
+      "unittype": "tes3"
     },
     {
       "name": "SN1111호선",
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1"
-      "Unit_Type": "tes1"
+      "unittype": "tes1"
     },
     {
       "name": "SN2222호선",
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1"
-      "Unit_Type": "tes1"
+      "unittype": "tes1"
     },
     {
       "name": "SN3333호선",
       "title": "전계장 Constructability",
       "requirement": "require test2",
       "contractor": "Con test2"
-      "Unit_Type": "tes2"
+      "unittype": "tes2"
     },
     {
       "name": "SN4444호선",
       "title": "Supports attached to No-Go area1",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area,and some of them have not been reviewed/calculated by Structure engineer (GVA)which caused lots of impact on construction",
       "contractor": "30%, 60% 90% Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area"
-      "Unit_Type": "tes1"
+      "unittype": "tes1"
     },
     {
       "name": "SN1111HO",
       "title": "Supports ",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area,and some of them have not been reviewed/calculated by Structure engineer (GVA)which caused lots of impact on construction",
       "contractor": "Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area"
-      "Unit_Type": "tes3"
+      "unittype": "tes3"
     },
     {
       "name": "SN5555호선",
       "title": "Supports attached to No-Go area2",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area and some of them have not been reviewed/calculated by Structure engineer",
       "contractor": "30%, 60% 90% Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area"
-      "Unit_Type": "tes2"
+      "unittype": "tes2"
     }
     ]
 }
