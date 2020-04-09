@@ -22,9 +22,9 @@
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1",
-      "Unit_Type": "Unit3"
-      "Project": "Project1"
-      "ENG": "ENG1"
+      "Unit_Type": "Unit3",
+      "Project": "Project1",
+      "ENG": "ENG1",
       "Process": "Process1"
     },
     {
@@ -32,9 +32,9 @@
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1",
-      "Unit_Type": "Unit1"
-      "Project": "Project1"
-      "ENG": "ENG2"
+      "Unit_Type": "Unit1",
+      "Project": "Project1",
+      "ENG": "ENG2",
       "Process": "Process1"
     },
     {
@@ -42,9 +42,9 @@
       "title": "배관 Constructability",
       "requirement": "require test1",
       "contractor": "Con test1",
-      "Unit_Type": "Unit1"
-      "Project": "Project1"
-      "ENG": "ENG1"
+      "Unit_Type": "Unit1",
+      "Project": "Project1",
+      "ENG": "ENG1",
       "Process": "Process1"
     },
     {
@@ -52,9 +52,9 @@
       "title": "전계장 Constructability",
       "requirement": "require test2",
       "contractor": "Con test2",
-      "Unit_Type": "Unit2"
-      "Project": "Project2"
-      "ENG": "ENG3"
+      "Unit_Type": "Unit2",
+      "Project": "Project2",
+      "ENG": "ENG3",
       "Process": "Process1"
     },
     {
@@ -62,9 +62,9 @@
       "title": "Supports attached to No-Go area1",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area,and some of them have not been reviewed/calculated by Structure engineer (GVA)which caused lots of impact on construction",
       "contractor": "30%, 60% 90% Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area",
-      "Unit_Type": "Unit1"
-      "Project": "Project3"
-      "ENG": "ENG4"
+      "Unit_Type": "Unit1",
+      "Project": "Project3",
+      "ENG": "ENG4",
       "Process": "Process2"
     },
     {
@@ -72,9 +72,9 @@
       "title": "Supports ",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area,and some of them have not been reviewed/calculated by Structure engineer (GVA)which caused lots of impact on construction",
       "contractor": "Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area",
-      "Unit_Type": "Unit3"
-      "Project": "Project3"
-      "ENG": "ENG5"
+      "Unit_Type": "Unit3",
+      "Project": "Project3",
+      "ENG": "ENG5",
       "Process": "Process2"
     },
     {
@@ -82,9 +82,9 @@
       "title": "Supports attached to No-Go area2",
       "requirement": "Lots of support for Piping, cable and HVAC lines have been welded on No-Go Structural area and some of them have not been reviewed/calculated by Structure engineer",
       "contractor": "30%, 60% 90% Model review-. Check No-Go area if any supports for piping cable and duct are attached and/or intrude to No-Go area",
-      "Unit_Type": "Unit2"
-      "Project": "Project4"
-      "ENG": "ENG4"
+      "Unit_Type": "Unit2",
+      "Project": "Project4",
+      "ENG": "ENG4",
       "Process": "Process1"
     }
     ]
